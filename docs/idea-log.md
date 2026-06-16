@@ -1,65 +1,117 @@
 # Initial IT Venture Idea Log
 
-## Idea 1: Smart Tourism Planning Website
+## Idea 1: MovieMatch - Personalized Movie Recommendation System
 
 ### Problem Area
-Tourists often have difficulty planning their trips because travel information is spread across multiple websites. Comparing destinations, transportation, accommodations, and activities takes a lot of time.
+
+Many movie viewers spend a long time searching for movies that match their interests. With thousands of movies available on streaming platforms, users often experience difficulty finding suitable content and may become overwhelmed by too many choices.
 
 ### Target Users
-Local and international tourists, especially students, solo travelers, and families.
+
+* University students
+* Movie enthusiasts
+* Streaming platform users
 
 ### Current Alternative
-Tourists usually use different travel websites, blogs, social media, and online maps to gather information manually.
+
+Users rely on Netflix recommendations, social media reviews, YouTube videos, or suggestions from friends when deciding what to watch.
 
 ### Proposed IT Solution
-A web-based tourism platform that helps users discover destinations, receive personalized recommendations, create travel itineraries, and manage their travel plans in one place.
+
+A web-based movie recommendation platform that provides personalized movie suggestions based on users' favorite genres, ratings, and watch history.
 
 ### Possible Technology
-HTML, CSS, JavaScript, database system, cloud storage, and AI-assisted recommendation features.
 
-### Why This is Suitable
-The website can be developed as a semester MVP using basic web development, database management, UI/UX design, and user testing.
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* Firebase Authentication
+* Firebase Firestore
+* TMDB API
+
+### Why This Is Suitable
+
+The system can be developed as a complete web application while allowing the team to practice API integration, database management, and recommendation system development.
 
 ---
 
-## Idea 2: Local Tour Guide and Activity Booking Website
+## Idea 2: AI Movie Mood Finder
 
 ### Problem Area
-Many local guides and small tourism businesses have limited online visibility, while tourists struggle to find trustworthy local experiences.
+
+Many users know what mood they are in, such as happy, excited, relaxed, or emotional, but do not know what movie to watch that matches their current feelings.
 
 ### Target Users
-Tourists, local tour guides, and small tourism businesses.
+
+* Movie enthusiasts
+* Streaming platform users
+* University students
 
 ### Current Alternative
-Users search through social media, travel agencies, or general booking websites.
+
+Users manually search for movie lists on Google, YouTube, or streaming platforms.
 
 ### Proposed IT Solution
-A web-based marketplace where tourists can search, compare, and book local guides and tourism activities.
+
+A web-based platform where users select their current mood, and the system recommends movies that match that mood. Users can also save recommendations and create personalized mood-based watchlists.
 
 ### Possible Technology
-HTML, CSS, JavaScript, database system, booking system, user accounts, and cloud-based services.
 
-### Why This is Suitable
-The idea can be developed as a simple website prototype with core features such as listings, search functions, booking requests, and reviews.
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* Firebase Authentication
+* Firebase Firestore
+* TMDB API
+
+### Why This Is Suitable
+
+The project introduces recommendation logic while remaining simple enough to develop as a semester MVP. It also provides opportunities for customer validation and user experience design.
 
 ---
 
-## Idea 3: Tourist Safety and Travel Information Website
+## Idea 3: Smart Movie Watchlist Manager
 
 ### Problem Area
-Tourists may have difficulty finding reliable safety information, emergency contacts, local regulations, and travel advice when visiting unfamiliar places.
+
+Many people save movie titles in notes, screenshots, or messaging apps and later forget what they wanted to watch.
 
 ### Target Users
-International tourists and first-time visitors.
+
+* Movie enthusiasts
+* Streaming service users
+* University students
 
 ### Current Alternative
-Tourists rely on search engines, travel blogs, or ask local people for information.
+
+Users save movie names in notes, screenshots, or streaming platform watchlists.
 
 ### Proposed IT Solution
-A web-based travel assistance platform that provides emergency contacts, safety tips, travel guidelines, and location-based information.
+
+A web-based watchlist management platform that allows users to organize movies, track watched content, and receive reminders for unwatched movies.
 
 ### Possible Technology
-HTML, CSS, JavaScript, database system, maps integration, and cloud-based information storage.
 
-### Why This is Suitable
-This project can be created as a web prototype with information pages, search functions, maps, and simple database integration within the semester.
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* Firebase Authentication
+* Firebase Firestore
+* TMDB API
+
+### Why This Is Suitable
+
+The system requires user management, database design, and movie API integration while remaining achievable within the semester.
+
+---
+
+# Selected Venture Idea
+
+## MovieMatch - Personalized Movie Recommendation System
+
+### Reason for Selection
+
+After evaluating the proposed ideas, the team selected MovieMatch as the final venture idea. The project addresses a common problem faced by movie viewers who struggle to discover movies that match their interests. The system can be developed using modern web technologies and external APIs while providing opportunities for customer validation, business model development, and MVP creation throughout the semester.
