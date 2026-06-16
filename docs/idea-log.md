@@ -1,6 +1,6 @@
 # Initial IT Venture Idea Log
 
-## Idea 1: MovieMatch - Personalized Movie Recommendation System
+## Idea 1: WatchMate - Movie Recommendation System
 
 ### Problem Area
 
