@@ -1,5 +1,5 @@
 # ICT111-TeamName-MVP
-# TravelEase: Smart Tourism Planning Platform
+# TravelEase: Movie Recommendation System
 
 ## Course Information
 Course Code: ICT111  
@@ -19,20 +19,20 @@ Team 3
 | Htut Arkar Saing | UX/UI Lead + Documentation Lead | Design the user interface and maintain project documentation |
 
 ## Initial Problem Area
-Many travelers experience difficulties planning their trips because travel information is spread across different websites and applications. It is often difficult to compare destinations, activities, transportation, and costs efficiently.
+Many movie viewers experience difficulty finding movies that match their interests and preferences. The increasing number of movies available on streaming platforms often causes users to spend excessive time searching for content. Existing recommendation systems may not always provide personalized suggestions that align with users' specific tastes and viewing habits.
 
 ## Target Users
-The target users are local and international tourists, especially students, young travelers, and families who need an easier way to plan and organize their trips.
+The primary target users are university students, young adults, and movie enthusiasts who regularly watch movies through online streaming platforms. These users are interested in discovering new movies quickly and receiving recommendations based on their personal preferences and favorite genres.
 
 ## Initial IT Venture Direction
-Our project aims to develop a smart tourism platform that helps users discover destinations, create travel plans, and receive personalized recommendations in one digital platform.
+The team plans to develop a web-based movie recommendation platform called MovieMatch. The system will allow users to search for movies, select favorite genres, save watchlists, rate movies, and receive personalized recommendations. The platform aims to improve movie discovery and reduce the time users spend searching for suitable content.
 
 ## Technology Possibility
 - Web application
-- Mobile application
 - AI-assisted recommendation feature
 - Cloud-based system
-- Marketplace or digital platform
+- SaaS platform
+- Digital recommendation platform
 
 ## Repository Structure
 - docs: team profile, idea logs, and weekly project documentation
@@ -50,7 +50,7 @@ Our project aims to develop a smart tourism platform that helps users discover d
 | Lab 1 | Lab setup and tourism idea exploration | Repository, team profile, and initial venture idea | In progress |
 
 ## Current Status
-In Lab 1, our team created the project repository, assigned team roles, and explored problems in the tourism industry. We identified travel planning difficulties as our initial problem area and developed a smart tourism platform concept as our potential MVP.
+During Lab 1, the team created the project repository, selected the Movie Recommendation System idea, identified the target users and problem area, and assigned team roles. The initial project structure was also prepared.
 
 ## Next Step
-In Lab 2, our team will conduct opportunity scanning, research traveler needs, validate the problem, and improve the initial solution based on user evidence.
+For Lab 2, the team will conduct customer validation through surveys and interviews and start developing the Business Model Canvas.
